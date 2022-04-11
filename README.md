@@ -12,3 +12,11 @@ For years this has caused me great anguish, and finally I've had enough... Born 
 4. Click 'Load unpacked'
 5. Select the folder containing this repo
 6. Enable the extension and enjoy
+
+## How to use
+
+All you need to do is install and enable the extension and you are done.
+There are however a couple of extra things you can do in the extension popup (open by clicking on the extension in your extension tray):
+
+- **Reset**: This will reset the relevant sportingnews.com and nba.com cookies that control which site you are redirected to.
+- **On/off switch**: Enabled by default, this switch can be used to disable and enable the extension. The state of this will be saved to your Google account, so it will sync across devices.
