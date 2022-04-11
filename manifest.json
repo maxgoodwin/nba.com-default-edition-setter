@@ -3,7 +3,7 @@
 
   "name": "NBA.com AU to USA",
   "version": "1.0.0",
-  "description": "For people who access nba.com from Australia, and want to view the American nba.com instead of the Australian. With this extension, you will never need to manually set the default site again.",
+  "description": "For people who access nba.com from Australia, and want to view the American site. This extension automatically sets nba.com preferences to USA.",
   "author": "Max Goodwin",
 
   "action": {
