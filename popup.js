@@ -18,7 +18,6 @@ chrome.storage.sync.get(["isExtensionActive"], (result) => {
 });
 
 const setToggleState = (state) => {
-	console.log(state);
 	chrome.storage.sync.set({
 		isExtensionActive: state
 	});

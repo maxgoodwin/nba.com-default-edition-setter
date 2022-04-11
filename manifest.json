@@ -1,14 +1,14 @@
 {
   "manifest_version": 3,
 
-  "name": "nba.com default edition setter for Australians",
+  "name": "NBA.com AU to USA",
   "version": "1.0.0",
-  "description": "Automatically sets the default nba.com edition to 'NBA US' instead of 'AU NBA'",
+  "description": "For people who access nba.com from Australia, and want to view the American nba.com instead of the Australian. With this extension, you will never need to manually set the default site again.",
   "author": "Max Goodwin",
 
   "action": {
     "default_popup": "index.html",
-    "default_title": "Auto set nba.com edition"
+    "default_title": "NBA.com AU to USA"
   },
   "icons": {
     "128": "icon.png"
