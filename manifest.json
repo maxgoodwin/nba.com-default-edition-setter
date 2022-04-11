@@ -3,7 +3,7 @@
 
   "name": "NBA.com AU to USA",
   "version": "1.0.0",
-  "description": "For people who access nba.com from Australia, and want to view the American site. This extension automatically sets nba.com preferences to USA.",
+  "description": "If you access nba.com from Australia and want to view the American site. This extension automatically sets nba.com preferences to USA",
   "author": "Max Goodwin",
 
   "action": {
