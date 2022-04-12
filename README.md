@@ -1,13 +1,11 @@
-# NBA.com default edition setter, for Australians
-
-## Firefox version
+# NBA.com default edition setter, for Australians: Firefox version
 
 When accessing NBA.com from Australia, you are redirected to sportingnews.com/au/nba, which is a terrible website. You can change the default edition to the American NBA.com, but as any Australian who frequents NBA.com knows, you need to repeat this action every week, because the preference expires after 7 days, and this annoys me to no end.
 
 For years this has caused me great anguish, and finally I've had enough... Born out of my burning hatred for sportingnews.com is this extension which will eliminate the need to ever manually set your default nba.com version again.
 
 ## Installation
-
+#### This is the Firefox version, for Chrome/Chromium, go to the [main branch](https://github.com/maxgoodwin/nba.com-default-edition-setter/tree/main)
 Currently pending approval in the firefox add-on store. For now you need to install it per the instructions below:
 
 1. Download/clone this repo
