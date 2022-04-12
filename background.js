@@ -26,14 +26,14 @@ const removeNbaCookieDetails = {
 	name: nbaCookieBasics.name
 };
 
-chrome.storage.onChanged.addListener((changes, namespace) => {
+chrome.storage.onChanged.addListener((changes) => {
 	for (const [key, { newValue }] of Object.entries(changes)) {
 		isExtensionActive = newValue;
 	}
 });
 
 const getSportingNewsTabs = async () => {
-	const queryOptions = { url: "*://www.sportingnews.com/*" };
+	const queryOptions = { url: "*://www.sportingnews.com/au/nba*" };
 	const tabs = await chrome.tabs.query(queryOptions);
 	return tabs;
 };
