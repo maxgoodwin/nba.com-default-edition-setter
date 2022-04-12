@@ -1,6 +1,6 @@
 let isExtensionActive = true;
 
-chrome.storage.sync.set({
+chrome.storage.local.set({
 	isExtensionActive: isExtensionActive
 });
 
@@ -34,7 +34,7 @@ chrome.storage.onChanged.addListener((changes) => {
 
 const getSportingNewsTabs = async () => {
 	const queryOptions = { url: "*://www.sportingnews.com/au/nba*" };
-	const tabs = await chrome.tabs.query(queryOptions);
+	const tabs = await browser.tabs.query(queryOptions);
 	return tabs;
 };
 
@@ -73,6 +73,7 @@ chrome.webNavigation.onCommitted.addListener(
 		};
 
 		sportingnewsTabs.forEach((tab) => {
+			console.log("update");
 			chrome.tabs.update(tab.id, tabUpdateProps);
 		});
 	},
