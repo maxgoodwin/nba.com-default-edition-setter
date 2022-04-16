@@ -6,7 +6,7 @@ For years this has caused me great anguish, and finally I've had enough... Born 
 
 ## Installation
 #### This is the Firefox version, for Chrome/Chromium, go to the [main branch](https://github.com/maxgoodwin/nba.com-default-edition-setter/tree/main)
-Currently pending approval in the firefox add-on store. For now you need to install it per the instructions below:
+You can install via [Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/nba-com-au-to-usa/), or install it per the instructions below:
 
 1. Download/clone this repo
 2. Open firefox/firefox based browser
