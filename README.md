@@ -7,7 +7,7 @@ For years this has caused me great anguish, and finally I've had enough... Born 
 ## Installation
 #### This is the Chrome/Chromium version, for Firefox, go to the [firefox branch](https://github.com/maxgoodwin/nba.com-default-edition-setter/tree/firefox)
 
-Currently pending approval in the Chrome Web Store. For now you need to install it per the instructions below:
+You can install via the [chrome web store](https://chrome.google.com/webstore/detail/nbacom-au-to-usa/pnjkpkkofejnmlgomknilgihaamkjkfi?hl=en), or follow the instructions below:
 
 1. Download/clone this repo
 2. Open chrome/chromium-based browser
