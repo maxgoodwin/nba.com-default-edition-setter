@@ -4,9 +4,23 @@ When accessing NBA.com from Australia, you are redirected to sportingnews.com/au
 
 For years this has caused me great anguish, and finally I've had enough... Born out of my burning hatred for sportingnews.com is this extension which will eliminate the need to ever manually set your default nba.com version again.
 
-## Installation
+## Available on:
+
+<table style="border-collapse: separate;"><tr>
+  <td style="border-spacing:2em 0"> 
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/nba-com-au-to-usa/">
+        <img src="https://i.ibb.co/BLMCfKB/Firefox-Add-ons.jpg" alt="Mozilla add-ons" height=152.19123505976 width=270.161955728/>
+      </a>  
+  </td>
+  <td style="border-spacing:2em 0"> 
+      <a href="https://chrome.google.com/webstore/detail/nbacom-au-to-usa/pnjkpkkofejnmlgomknilgihaamkjkfi">
+        <img src="https://i.ibb.co/dBcdbpf/chrome-webstore.webp" alt="Chrome WebStore" height=152.19123505976 width=209.097523
+      </a>  
+  </td>
+</tr></table>
+
+## Developer installation
 #### This is the Firefox version, for Chrome/Chromium, go to the [main branch](https://github.com/maxgoodwin/nba.com-default-edition-setter/tree/main)
-You can install via [Firefox addons](https://addons.mozilla.org/en-US/firefox/addon/nba-com-au-to-usa/), or install it per the instructions below:
 
 1. Download/clone this repo
 2. Open firefox/firefox based browser
